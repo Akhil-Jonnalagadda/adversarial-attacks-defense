@@ -24,7 +24,7 @@ This project explores how deep learning models can be fooled by adversarial atta
 ## **How to Run**  
 1. Clone this repo:  
    ```bash
-   git clone https://github.com/yourusername/adversarial-defense-ml.git
+   git clone https://github.com/Akhil-Jonnalagadda/adversarial-attacks-defense.git
    cd adversarial-defense-ml
    ```
 2. Install dependencies:  
